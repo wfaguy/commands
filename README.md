@@ -6,4 +6,3 @@ This command will add a "No Category" category (if needed), move all non-assigne
 
 Why this command ?  By default everyone can run every workflow.  You can hide them in the admin, but from the rest-api they are still there.  That's dangerous.  This command will restrict ALL workflows at once. Only manually assigned users and groups (and admins) will now have access to the workflows.
 
-"# powershell" 
